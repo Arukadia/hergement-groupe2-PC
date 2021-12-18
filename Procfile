@@ -1,1 +1,0 @@
-web: java -jar target/m1m-server-prisonnier-1.0.jar
